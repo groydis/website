@@ -41,12 +41,7 @@ export default function Home() {
               <br />
               <br /> Directory of C:&#92;
               <br />
-              <br />2021-01-01 12:01PM  &#10094;DIR&#10095;  RESUME
-              <br />2021-03-26 12:02PM  &#10094;DIR&#10095;  ABOUT
-              <br />2021-02-02 12:01PM  &#10094;DIR&#10095;  GITHUB
-              <br />2021-04-20 12:08PM  &#10094;DIR&#10095;  TWITTER
-              <br />2021-01-01 12:01PM  &#10094;DIR&#10095;  LINKEDIN
-              <br />2021-03-10 12:16PM  &#10094;DIR&#10095;  PROJECTS
+              <br />2021-01-01 12:01PM  &#10094;DIR&#10095;  <Link href="/"><a>HOME</a></Link>
               <br />    6 Dir(s) 34,871,164 bytes free
               <br />C:&#92;
               {/* <br />C:&#92;GreyDOS&#92;RESUME&gt; Resume
