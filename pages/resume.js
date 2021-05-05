@@ -145,7 +145,7 @@ export default function Home() {
           QUT Starters is a student-run society connecting innovative students
           who want to put their studies into action through entrepreneurship.
         </p>
-        <h3>General Committee & Founder</h3>
+        <h3>General Committee & Founder @ QUT Hacking and Technology Society</h3>
         <p>
           The QUT Hacking and Technology Society believes that students should
           be able to learn and practice security in their first years of
