@@ -69,6 +69,7 @@ export default function Home() {
           />
         </div>
         <h3>Co-Founder of Pizza Roulette / This Is A Company PTY LTD</h3>
+        <h5>May 2019 - April 2021</h5>
         <div className={center}>
           <Image
             alt="Classic Geo-Cities Flames."
@@ -88,6 +89,7 @@ export default function Home() {
           businesses.
         </p>
         <h3>Self Employed IOS Developer</h3>
+        <h5>Aug 2015 - April 2021</h5>
         <div className={center}>
           <Image
             alt="Classic Geo-Cities Flames."
@@ -104,6 +106,7 @@ export default function Home() {
           Developed Hydro-Geo Technical Apps for Environmental Mining Industry.
         </p>
         <h3>Senior Tech Support Engineer @ Tatts Group</h3>
+        <h5>Sep 2015 - June 2016</h5>
         <Image
           alt="Classic Geo-Cities Flames."
           src="/wizard.gif"
@@ -127,7 +130,9 @@ export default function Home() {
           Bachelor of Information Technology Majoring in Computer Science @
           Queensland Univerisity of Technology
         </h3>
+        <h5>Feb 2017 - Present</h5>
         <h3>MIT Fuse @ Massachusetts Institute of Technology</h3>
+        <h5>Jan 2020</h5>
         <p>
           MIT fuse is a three-week hands-on startup experience designed for
           students and small teams looking to work, think, and talk like an
@@ -141,11 +146,13 @@ export default function Home() {
           layout="responsive"
         />
         <h3>Secretary @ QUT Starters</h3>
+        <h5>Nov 2018 - Dec 2019</h5>
         <p>
           QUT Starters is a student-run society connecting innovative students
           who want to put their studies into action through entrepreneurship.
         </p>
         <h3>General Committee & Founder @ QUT Hacking and Technology Society</h3>
+        <h5>Jan 2019 - Dec 2019</h5>
         <p>
           The QUT Hacking and Technology Society believes that students should
           be able to learn and practice security in their first years of
