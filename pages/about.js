@@ -3,7 +3,6 @@ import { abWrap, center } from "../styles/Home.module.css";
 import Image from "next/image";
 import Link from "next/link";
 // import "nes.css/css/nes.min.css";
-import "hack";
 
 export default function Home() {
   return (
