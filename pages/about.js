@@ -1,7 +1,7 @@
 import { abWrap, center } from "../styles/Home.module.css";
 // import '../styles/about.module.css'
 import Image from "next/image";
-// import Link from 'next/link'
+import Link from "next/link";
 // import "nes.css/css/nes.min.css";
 import "hack";
 
@@ -19,6 +19,9 @@ export default function Home() {
       </div> */}
       <div className={center}>
         <h1>About Me</h1>
+        <Link href="/">
+          <h3>Home</h3>
+        </Link>
         <p>
           My name is Greyden and I am a software developer from Brisbane,
           Australia.
