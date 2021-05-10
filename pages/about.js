@@ -28,11 +28,11 @@ export default function Home() {
           This website was built as a homage to the era of internet I grew up
           with.
           <br />
-          Talking about yourself is boring, here is a bunch of stuff I could of
-          done had I organised my life better.
+          Talking about yourself is boring, here's a bunch of stuff I could of
+          done, had I organised my life better.
         </p>
         <Image
-          alt="Awful retro gif that says resume."
+          alt="Me meeting the queen."
           src="/queen.png"
           width={976}
           height={549}
@@ -45,7 +45,7 @@ export default function Home() {
           patiently waiting my turn to shake her hand.
         </p>
         <Image
-          alt="Awful retro gif that says resume."
+          alt="Me meeting former president obama."
           src="/obama.png"
           width={900}
           height={600}
@@ -58,7 +58,7 @@ export default function Home() {
           categories.
         </p>
         <Image
-          alt="Awful retro gif that says resume."
+          alt="Me doing a karate kick."
           src="/karate.png"
           width={900}
           height={600}
@@ -70,7 +70,7 @@ export default function Home() {
           scissor kick. My legs are now registered as deadly weapons.
         </p>
         <Image
-          alt="Awful retro gif that says resume."
+          alt="Me winning a logie."
           src="/logie.png"
           width={900}
           height={600}
