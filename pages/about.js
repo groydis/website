@@ -28,7 +28,7 @@ export default function Home() {
           This website was built as a homage to the era of internet I grew up
           with.
           <br />
-          Talking about yourself is boring, here's a bunch of stuff I could of
+          Talking about yourself is boring, here's a bunch of stuff I could have
           done, had I organised my life better.
         </p>
         <Image

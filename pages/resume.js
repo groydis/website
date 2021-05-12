@@ -111,7 +111,7 @@ export default function Home() {
         </div>
         <p>
           Developed Geo-Color, a Top 10 productivity app for iOS devices. Which
-          is used by Geo-Scientists for rock soil color analysis world wide.
+          is used by Geo-Scientists for rock soil color analysis worldwide.
           <br />
           Developed Hydro-Geo Technical Apps for Environmental Mining Industry.
         </p>
