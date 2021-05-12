@@ -31,11 +31,18 @@
   /* border: 3px solid green; */
   padding: 10px;
 }
+.centerText {
+  text-align: center;
+}
 .testcenter {
   margin: auto;
   width: 50%;
   /* border: 3px solid green; */
   /* padding: 10px; */
+}
+p .projects {
+  font-size: 16px;
+  font-size: 4vw;
 }
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 .heading {
@@ -64,6 +71,12 @@
     width: 95%;
     /* border: 3px solid green; */
     padding: 10px;
+  }
+  .centerText {
+    text-align: center;
+  }
+  p .projects {
+    font-size: 4vw;
   }
   .resume {
     margin: auto;
