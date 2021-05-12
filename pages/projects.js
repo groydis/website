@@ -13,9 +13,9 @@ export default function Home() {
         <Image
           alt="Pizza Roulette Logo"
           src="/pizzaroulettelogo.png"
-          width={1500}
-          height={504}
-          layout="responsive"
+          width={750}
+          height={252}
+          layout="intrinsic"
         />
         <p>
           Pizza Roulette started as an exercise in entrepreneurship amongst 3
@@ -116,7 +116,7 @@ export default function Home() {
           src="/geocolor.png"
           width={180}
           height={180}
-          layout="responsive"
+          layout="intrinsic"
         />
         <p>
           After noticing someone return from a remote PNG field trip, where they
@@ -138,9 +138,9 @@ export default function Home() {
         <Image
           alt="Meal Wheel Logo"
           src="/MealWheel.png"
-          width={6000}
-          height={1400}
-          layout="responsive"
+          width={1500}
+          height={350}
+          layout="intrinsic"
         />
         <p>
           Meal Wheel is a promotional game licensed to a Brisbane based
@@ -151,7 +151,7 @@ export default function Home() {
           src="/droyale.png"
           width={337}
           height={346}
-          layout="responsive"
+          layout="intrinsic"
         />
         <p>
           Dinner Royale was an experiment post Pizza Roulette to promote food
