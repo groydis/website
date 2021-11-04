@@ -78,6 +78,8 @@ export default function Home() {
             layout="responsive"
           />
         </div>
+        <h3>Software Developer @ Studio None</h3>
+        <h5>June 2021 - Now</h5>
         <h3>Co-Founder of Pizza Roulette / This Is A Company PTY LTD</h3>
         <h5>May 2019 - April 2021</h5>
         <div className={center}>
