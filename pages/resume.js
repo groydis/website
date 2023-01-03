@@ -26,15 +26,6 @@ export default function Home() {
         </div>
         <h3>My name is Greyden and this is my resume.</h3>
         <h4>Hit me up via email greydenscott@gmail.com</h4>
-        <h4>Save yourself the time of reading this awful page by downloading a modern pdf version of this resume.</h4>
-        
-        <Link href="/resume.pdf"><a><Image
-            alt="Classic Geo-Cities Flames."
-            src="/download.gif"
-            width={206}
-            height={44}
-            layout="responsive"
-          /></a></Link>
         <div className={center}>
           <Image
             alt="Classic Geo-Cities Flames."
